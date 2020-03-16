@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Measuring the Scope and Impact of Open Source Software
+# name:
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Project
+# role:
 
 # Organizations/Affiliations
 organizations:
@@ -64,6 +64,6 @@ organizations:
 # - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+The Biocomplexity Institute & Initiative is a transdisciplinary, team science approach to fundamental research exploring the behavior of massively interacting living systems to develop practical solutions to large-scale, real-world problems. The Social & Decision Analytics Division is proud to present our work on measuring the scope and impact of Open Source Software.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+The Biocomplexity Institute & Initiative is a standalone research institute of the University of Virginia.
