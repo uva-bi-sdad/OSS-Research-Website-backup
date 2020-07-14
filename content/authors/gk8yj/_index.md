@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Gizem Korkmaz
+title: Korkmaz, Gizem
 
 # Username (this should match the folder name)
 authors:
@@ -20,10 +20,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+interests:
+- Networks
 
 education:
   courses:
@@ -44,10 +42,10 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:"Korkmaz, Gizem (gk8yj)"<gkorkmaz@virginia.edu>'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -64,12 +62,12 @@ education:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Faculty
+- SDAD
 ---
 
 Gizem Korkmaz is an Associate Professor at the Social and Decision Analytics Division (SDAD) of the Biocomplexity Institute & Initiative at the University of Virginia. She is also an Adjunct Assistant Professor in the Department of Agricultural and Applied Economics at Virginia Tech. Her research focuses on social and economic networks, involving mathematical and computational modeling, and empirical analysis. Gizem received her PhD in Economics at the European University Institute in 2012. Her PhD dissertation spans game theory and network theory; focuses on the interplay between the network structure and strategic decision-making.

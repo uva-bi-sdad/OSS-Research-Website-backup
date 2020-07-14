@@ -1,6 +1,6 @@
 ---
 # Display name
-# name:
+title: OSS
 
 # Username (this should match the folder name)
 authors:
@@ -10,26 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-# role:
+role: Project
 
 # Organizations/Affiliations
 organizations:
-- name: Social & Decision Analytics Division (SDAD)
-  url: "https://biocomplexity.virginia.edu/social-decision-analytics"
+- name: Biocomplexity Institute and Initiative
+  url: "https://biocomplexity.virginia.edu"
 
 # Short bio (displayed in user profile at end of posts)
-# bio: The Social & Decision Analytics Division channels data science to improve the impact of decision making for the public good.
-
-# interests:
-# - Transdisciplinarity
-# - Team Science
-# - Data Science
-
-# education:
-#   courses:
-#   - course: PhD in Artificial Intelligence
-#     institution: Stanford University
-#     year: 2012
+bio:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -55,15 +44,11 @@ organizations:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: ""
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Researchers
-# - Visitors
+user_groups:
 ---
 
-The Biocomplexity Institute & Initiative is a transdisciplinary, team science approach to fundamental research exploring the behavior of massively interacting living systems to develop practical solutions to large-scale, real-world problems. The Social & Decision Analytics Division is proud to present our work on measuring the scope and impact of Open Source Software.
-
-The Biocomplexity Institute & Initiative is a standalone research institute of the University of Virginia.
+Measuring the Scope and Impact of Open Source Software. NCSES is interested in measuring intangibles in the economy. An intangible is something that creates value but is not measured through market transactions.  From a company perspective, examples of intangible assets are goodwill, copyrights, or patents. From the perspective of the economy, examples of intangible assets are open source software, other free content obtained from the internet, and free innovations, e.g. medical devices or other tools that individuals create and share to meet a specific need. These intangibles can be measured through attributes (e.g. counts of downloads).
